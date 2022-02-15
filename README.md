@@ -27,7 +27,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/AWS-663399?style=flat-square&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-663399?style=flat-square&logo=AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
