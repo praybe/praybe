@@ -39,6 +39,9 @@
 
 </div> </br></br>
 
+<div align="center"> 
+  [![Praybe's GitHub stats](https://github-readme-stats.vercel.app/api?username=praybe)](https://github.com/praybe/github-readme-stats)
+</div> </br></br>
 
 <!--
 **praybe/praybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
