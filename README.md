@@ -4,11 +4,11 @@
 <!-- 참고 사이트: https://hits.seeyoufarm.com/ -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpraybe%2Fpraybe.git&count_bg=%23F180DA&title_bg=%23969494&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  </div>
+  </div> </br></br>
 
 <div align="center"> 
   <h3> Tech Stack </h3> 
-Techs that I've used at least once
+Techs that I've used at least once </br>
 
 <!-- img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"  -->
 <!-- 참고 사이트: https://simpleicons.org/?q=aws -->
