@@ -40,7 +40,7 @@
 </div> </br></br>
 
 <div align="center"> 
-  [![Praybe's GitHub stats](https://github-readme-stats.vercel.app/api?username=praybe)](https://github.com/praybe/github-readme-stats)
+  [Praybe's GitHub stats](https://github-readme-stats.vercel.app/api?username=praybe)(https://github.com/praybe/github-readme-stats)
 </div> </br></br>
 
 <!--
