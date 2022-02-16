@@ -1,25 +1,29 @@
+<!-- 방문자수 참고 사이트: https://hits.seeyoufarm.com/ -->
 <div align="center">
   <h3> Hi there 👋 </h3>
-
-<!-- 참고 사이트: https://hits.seeyoufarm.com/ -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpraybe%2Fpraybe.git&count_bg=%23F180DA&title_bg=%23969494&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpraybe%2Fpraybe.git&count_bg=%23F180DA&title_bg=%23969494&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   </div> </br></br>
-  
-
+ 
+ 
+<!-- 깃허브스탯 참고 주소: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center"> 
-  <!-- 참고 주소: https://github.com/anuraghazra/github-readme-stats -->
-  
 [![praybe's GitHub stats](https://github-readme-stats.vercel.app/api?username=praybe&count_private=true&show_icons=true&theme=radical)](https://github.com/praybe/github-readme-stats)
 </div> </br></br>
 
 
+
+<!-- 데일리코딩시간 적용: https://fernando.kr/develop/2020-05-02-github-gist-posting/ -->
+<div align="center"> 
+
+</div> </br></br>
+
+
+<!-- 사용 언어 참고 사이트: https://simpleicons.org/?q=aws -->
+<!-- img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"  -->
 <div align="center"> 
   <h2>🛠 Tech Stack ⚙️</h2> 
  <p>  Techs that I've used at least once </p>
 
-<!-- img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"  -->
-<!-- 참고 사이트: https://simpleicons.org/?q=aws -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
@@ -46,9 +50,6 @@
 
 
 </div> </br></br>
-
-
-<!-- 데일리코딩시간 적용: https://fernando.kr/develop/2020-05-02-github-gist-posting/ -->
 
 
 
