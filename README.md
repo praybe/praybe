@@ -15,7 +15,7 @@
 
 
 <div align="center"> 
-  <h3> Tech Stack </h3> 
+  <h2> :lollipop: Tech Stack :doughnut: </h2> 
   <p> Techs that I've used at least once </p>
 
 <!-- img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"  -->
